@@ -11,3 +11,6 @@ public class DemoApplication {
 	}
 
 }
+
+//터미널에서 실행하는 경우 명령어
+//./gradlew bootRun
